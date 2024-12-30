@@ -20,6 +20,7 @@ set clipboard=unnamedplus   " using system clipboard
 filetype plugin on
 set cursorline              " highlight current cursorline
 set ttyfast                 " Speed up scrolling in Vim
+set showcmd                 " shows commands while typing
 
 call plug#begin('~\AppData\Local\nvim\plugged')
 
