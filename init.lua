@@ -25,5 +25,5 @@ require("telescope").load_extension("media_files")
 --  python = {'pylint'},
 -- }
 
-require('nvim-web-devicons').setup {}
+require('nvim-web-devicons').setup()
 require('mini.icons').setup()
